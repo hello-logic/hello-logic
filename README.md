@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm логика (Logika)</h1>
-<h3 align="center">Computer Science student. I like building things that save time, asking questions that don't have easy answers, and occasionally disappearing into philosophy rabbit holes.</h3>
+<h3 align="center">Computer Science student <br> I like building things that save time, asking questions that don't have easy answers, and occasionally explore between logic and philosophy.</h3>
 
 - I’m currently working on **AI-powered workflows**
 
