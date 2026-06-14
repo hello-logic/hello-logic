@@ -7,8 +7,6 @@
 
 - Ask me about **Automations, AI Agents and Marketing**
 
-- How to reach me **isthissuraj@proton.me**
-
 - Fun fact **My latest self tends to bully my older selves. Thankfully, they're all me.**
 
 <h3 align="left">Connect with me:</h3>
